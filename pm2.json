@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "demo",
+      "script": "./node_modules/.bin/ts-node",
+      "args": "bin/www.ts"
+    }
+  ]
+}
